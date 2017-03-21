@@ -1,0 +1,44 @@
+# IDE files
+.idea
+.buildpath
+.project
+.settings
+
+nbproject/
+*.sublime-project
+*.sublime-workspace
+org.eclipse.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*~
+*.orig
+
+# logfiles
+*.log
+
+# composer
+vendor
+
+# node
+.tmp
+.sass-cache
+node_modules
+bower_components
+site/css
+site/dist
+site/images
+site/script
+site/fonts
+
+# gulp assets
+src/styles/_bower.scss
+src/styles/sprite.scss
+src/styles/components/**/index.sass

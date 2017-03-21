@@ -1,0 +1,21 @@
+{
+  "name": "architexture",
+  "description": "",
+  "main": "sketch.js",
+  "authors": [
+    "Cees-Willem Hofstede"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "p5.js": "p5js#^0.5.7"
+  }
+}
